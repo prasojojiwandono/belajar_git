@@ -1,6 +1,0 @@
-fo3fi1
-<<<<<<< HEAD
-ubah dari web branch1
-=======
-update dari web dan master 
->>>>>>> e6a438dddfe1579250a6b817e58549c366888a44
