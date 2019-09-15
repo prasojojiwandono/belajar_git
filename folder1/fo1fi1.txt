@@ -1,4 +1,5 @@
 fo1fi1
--- tadinya : coba deh -- lalu diubah di branch2
+coba deh
 ini dari web
 ubah lagi
+ini dari branch 2
